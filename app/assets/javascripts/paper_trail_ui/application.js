@@ -12,7 +12,7 @@
 //
 //= require jquery                                                                                                                         
 //= require jquery_ujs 
-//= require bootstrap.min
-//= require bootstrap-datepicker
+//= require paper_trail_ui/bootstrap.min
+//= require paper_trail_ui/bootstrap-datepicker
 //= require paper_trail_ui/reports
 //= require_tree .
